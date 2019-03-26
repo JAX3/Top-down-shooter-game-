@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "enemy.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 112,
+				"h": 34
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "enemy_shoot.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 35,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 42,
+						"h": 30
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 42,
+						"h": 30
+					}
+				},
+				{
+					"filename": "enemy_idle.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 30,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 31,
+						"h": 30
+					},
+					"frame": {
+						"x": 46,
+						"y": 2,
+						"w": 31,
+						"h": 30
+					}
+				},
+				{
+					"filename": "enemy_walk.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 30,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 31,
+						"h": 30
+					},
+					"frame": {
+						"x": 79,
+						"y": 2,
+						"w": 31,
+						"h": 30
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:cc10912738d2f8ab1f7ed31b6913d043:713384a070b0d96c88de472f58bd7e50:a99356c10d69482e9bee53d25c3d05e1$"
+	}
+}
